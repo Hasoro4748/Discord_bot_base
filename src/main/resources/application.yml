@@ -1,0 +1,6 @@
+spring:
+    application:
+        name: test_Bot
+discord:
+    bot:
+        token: ${MY_SECRET_TOKEN}
